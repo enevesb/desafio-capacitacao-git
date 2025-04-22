@@ -1,3 +1,5 @@
 Resolução do desafio de Git:
 
 As funções do Git que precisam ser utilizados são: clone, branch, commit, push, merge e resolução de conflitos.
+
+Texto editado pelo Git no Navegador.
